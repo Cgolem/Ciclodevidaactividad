@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ciclodevidaactividad</string>
+    <string name="ciclo_vida">Ciclo de vida de una actividad</string>
+    <string name="log_cat">Uso de LogCat para visualizar cambio de estado en el ciclo.</string>
+</resources>
